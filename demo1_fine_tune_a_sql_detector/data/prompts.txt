@@ -1,0 +1,18 @@
+给我20个输入和输出，要求：
+1.用英文表示
+2.输入是数据库表的结构和与这个表相关的自然语句，输出是这句话是否适用于这个数据库的表结构
+3.结果是True和False的语句各10句
+比如：
+1.question:what's the room size of Tom's booking,table:[name,id,roomSize],output:True
+2.question:Who is Tom's girlfriend,table:[name,gender,startTime, endTime, invited people],output:False
+3.question:When will Tom move to the room,table:[name,gender,roomSize],output:False
+
+给我20个输入和输出，要求：
+1.用英文表示
+2.输入是数据库表的结构和与这个表相关的自然语句，输出是这句话是否适用于这个数据库的表结构
+3.结果是True和False的语句各10句
+4.包含陈述语句和感叹句
+比如：
+1.Input:How are you?,table:[name,id,roomSize],output:False
+2.Input:My name is Tom,table:[name,gender,startTime, endTime, invited people],output:False
+3.Input:Thank you so much !,table:[name,gender,roomSize],output:False
