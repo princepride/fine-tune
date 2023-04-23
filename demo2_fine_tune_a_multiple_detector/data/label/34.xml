@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>taken_photo4</folder>
+<filename>34.jpg</filename>
+<path>E:\nus is coures\Intelligent Robotic Systems ISY5003\project\ws_python\opencv\taken_photo4\34.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>test_strip</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>128</xmin>
+        <ymin>172</ymin>
+        <xmax>205</xmax>
+        <ymax>252</ymax>
+    </bndbox>
+</object>
+</annotation>
