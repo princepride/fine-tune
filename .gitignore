@@ -1,3 +1,5 @@
 *.bin
 */results/*
 */model/*
+*.mp4
+*.mp3
